@@ -394,8 +394,8 @@ def task():
             speak("i am a virtual desktop assistant. myself jarvis.i am here to ease your computer related task")
 
         elif "who developed you" in query or "who made you" in query:
-            print("i am invented by a student as a mini project. their names are Harsh Dubey")
-            speak("i am invented by a student as a mini project. their names are Harsh Dubey")
+            print("i am invented by 2 student as a mini project. their names are Ritesh Pandit and Momin Ayesha.")
+            speak("i am invented by 2 student as a mini project. their names are Ritesh Pandit and Momin Ayesha.")
 
         elif "where i am" in query or "where we are" in query or "location" in query:
             print("wait sir, let me check")
